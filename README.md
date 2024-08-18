@@ -11,7 +11,7 @@ I'm Mücahit, a software developer. I'm currently working on Web Development. I'
 ## Technical Skills
 
 - **Programming Languages**: Java, JavaScript, C++, C
-- **Web Development**: HTML, CSS
+- **Web Development**: HTML, CSS, React
 
 ## Contact Me
 
