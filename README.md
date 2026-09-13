@@ -1,3 +1,5 @@
+[🇬🇧 English](README.md) | [🇹🇷 Türkçe](README-tr.md)
+
 # Mücahit Başaran | Computer Engineer & Developer
 
 > Building things, exploring technologies, and learning by doing.
