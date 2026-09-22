@@ -16,7 +16,7 @@ I use GitHub as both a **workspace for building projects and a portfolio of thin
 
 Check out my personal portfolio to explore my projects, experience, and skills.
 
-**[Visit my Portfolio →]([VERCEL_SITE_URL](https://mbasaran.vercel.app/tr))**
+**[Visit my Portfolio →](https://mbasaran.vercel.app/tr)**
 
 ---
 
